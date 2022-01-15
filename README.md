@@ -1,7 +1,7 @@
 # 11december2021-sonicpicodes
 This codes is the full setup that I played on 11 December 2021 at Taksim/Beyoğlu/Sahika.
 
-All codes in one page but actually they are in different buffers on <a href="https://sonic-pi.net/">Sonic Pi</a>. This is indicated in the text by buffer numbers. So when I play on stage, I'm proceeding in the order of the buffer in the text. 
+All codes in one page but actually they are in different buffers on <a href="https://github.com/sonic-pi-net/sonic-pi">Sonic Pi</a>. This is indicated in the text by buffer numbers. So when I play on stage, I'm proceeding in the order of the buffer in the text. 
 
 
 
